@@ -1,0 +1,153 @@
+IAGA_code	Name	Country_code	Latitude	Longitude	Elevation	Data_embargo	Plot_embargo	Notes
+AAE	Addis Ababa, Ethiopia	ET	9.035	38.770	2441	0	0	closed
+ABG	Alibag, India	IN	18.638	72.872	7	0	0	 
+ABK	Abisko, Sweden	SW	68.358	18.823	380	0	0	 
+AIA	Vernadsky, Agentine Islands	UA	-65.245	295.742	10	0	0	 
+ALE	Alert, Canada	CA	82.497	297.647	60	0	0	closed
+AMS	Martin de Vivies, French Southern Territories	FR	-37.800	77.570	50	0	0	no longer IMO
+API	Apia, Western Samoa	WS	-13.816	188.219	2	0	0	 
+AQU	L'Aquila, Italy	IT	42.380	13.320	682	0	0	closed
+ARS	Arti, Russia	RU	56.433	58.567	290	0	0	 
+ASC	Ascension Island	UK	-7.950	345.620	177	24	0	 
+ASP	Alice Springs, Australia	AS	-23.762	133.883	557	0	0	 
+BDV	Budkov, Czech Republic	EZ	49.080	14.020	496	0	0	 
+BEL	Belsk, Poland	PL	51.836	20.789	180	0	0	 
+BFE	Brorfelde, Denmark	DA	55.625	11.672	80	0	0	 
+BFO	Black Forest Observatory, Germany	DE	48.331	8.325	641	0	0	 
+BLC	Baker Lake, Canada	CA	64.318	263.988	30	24	24	 
+BMT	Beijing Ming Tombs, China	CN	40.300	116.200	183	0	0	 
+BNG	Bangui, Central African Republic	CF	4.330	18.570	395	0	0	closed
+BOU	Boulder, USA	US	40.140	254.767	1682	0	0	 
+BOX	Borok, Russia	RU	58.070	38.230	115	0	0	 
+BRD	Brandon, Canada	CA	49.870	260.026	380	24	24	 
+BRW	Barrow, USA	US	71.320	203.380	12	0	0	 
+BSL	Stennis Space Center, USA	US	30.350	270.360	8	0	0	 
+CBB	Cambridge Bay, Canada	CA	69.123	254.969	20	24	24	 
+CKI	Cokos (Keeling) Islands, Australia	AS	-12.188	96.834	3	0	0	 
+CLF	Chambon la Foret, France	FR	48.025	2.260	145	0	0	 
+CMO	College, USA	US	64.870	212.140	197	0	0	 
+CNB	Canberra, Australia	AS	-35.320	149.360	859	0	0	 
+CNH	Changchun, China	CH	44.080	124.860	187	0	0	 
+CPL	Choutuppal, India	IN	17.294	78.919	360	0	0	 
+CSY	Casey, Australia	AU	-66.283	110.533	41	0	0	 
+CTA	Charters Towers, Australia	AS	-20.090	146.264	370	0	0	 
+CYG	Cheongyang, Republic of Korea	KR	36.370	126.854	165	0	0	 
+CZT	Port Alfred, French Southern Territories	FR	-46.430	51.860	160	0	0	no longer IMO
+DED	Deadhorse, USA	US	70.360	211.210	10	0	0	 
+DLR	Del Rio, USA	US	29.490	259.083	355	0	0	closed
+DLT	Dalat, Vietnam	VN	11.950	108.480	1583	0	0	 
+DMC	Dome Concordia, Antarctica	FR	-75.250	124.167	3250	0	0	no longer IMO
+DOU	Dourbes, Belgium	BE	50.100	4.600	225	0	0	 
+DRV	Dumont d'Urville, French Southern Territories	FR	-66.670	140.010	30	0	0	no longer IMO
+DUR	Duronia, Italy	IT	41.650	14.470	920	0	0	 
+EBR	Ebro, Spain	ES	40.957	0.333	532	0	0	 
+ESK	Eskdalemuir, United Kingdom	UK	55.314	356.794	245	240	0	 
+EYR	Eyrewell, New Zealand	NZ	-43.474	172.393	102	0	0	 
+FCC	Fort Churchill, Canada	CA	58.759	265.912	15	24	24	 
+FRD	Fredericksburg, USA	US	38.210	282.633	69	0	0	 
+FRN	Fresno, USA	US	37.090	240.280	331	0	0	 
+FUR	Furstenfeldenbruck, Germany	GE	48.170	11.280	572	0	0	 
+GAN	Gan Int. Airpt, Addu Atoll, Maldives	MV	-0.695	73.154	2	0	0	 
+GCK	Grocka, Serbia	SR	44.633	20.767	231	0	0	 
+GDH	Qeqertarsuaq (Godhavn), Greenland	GL	69.252	306.467	24	0	0	 
+GLN	Glenlea, Canada	CA	49.645	262.880	40	0	0	closed
+GNA	Gnangara, Australia	AS	-31.780	115.947	60	0	0	 
+GNG	Gingin, Australia	AS	-31.356	115.715	50	0	0	 
+GUA	Guam, USA	US	13.590	144.870	140	0	0	 
+GUI	Guimar-Tenerife, Spain	ES	28.321	343.559	868	0	0	 
+GZH	Guangzhou, China	CH	23.970	112.450	14	0	0	 
+HAD	Hartland, United Kingdom	UK	51.000	355.520	95	240	0	 
+HBK	Hartebeesthoek, South Africa	SF	-25.880	27.710	1555	0	0	 
+HER	Hermanus, South Africa	SF	-34.430	19.230	26	0	0	 
+HLP	Hel Observatory, Poland	PL	54.603	18.811	1	0	0	 
+HON	Honolulu, USA	US	21.320	202.000	4	0	0	 
+HRB	Hurbanovo, Slovakia	SK	47.873	18.190	120	0	0	 
+HRN	Hornsund, Svalbard	NO	77.000	15.550	15	0	0	 
+HUA	Huancayo, Peru	PE	-12.050	284.670	3313	0	0	 
+HYB	Hyderabad, India	IN	17.420	78.550	500	0	0	 
+IPM	Isal de Pascua, Chile	CL	-27.171	250.580	83	0	0	 
+IQA	Iqaluit, Canada	CA	63.753	291.482	67	24	24	 
+IRT	Irkutsk (Patrony), Russia	RS	52.170	104.450	478	0	0	 
+ISK	Istanbul-Kandili, Turkey	TU	41.063	29.062	130	0	0	 
+IZN	Iznik, Turkey	TU	40.500	29.720	256	0	0	 
+JAI	Jaipur, India	IN	26.920	75.800	0	0	0	 
+JCO	Jim Carrigan Observatory, Alaska	US	70.356	211.201	20	4320	4320	 
+KAK	Kakioka, Japan	JP	36.232	140.186	36	0	0	 
+KDU	Kakadu, Australia	AS	-12.690	132.470	15	0	0	 
+KEP	King Edward Point, South Georgia	UK	-54.282	323.507	7	24	0	 
+KHB	Khabarovsk, Russia	RU	47.610	134.690	92	0	0	 
+KIV	Kiev Dymer, Ukraine	UA	50.720	30.300	140	0	0	 
+KMH	Keetsmanshoop, Namibia	NA	-26.540	18.110	1065	0	0	 
+KNY	Kanoya, Japan	JP	31.420	130.880	107	0	0	 
+KOU	Kourou, Guyana, France	GY	5.210	307.270	10	0	0	 
+LER	Lerwick, United Kingdom	UK	60.138	358.817	85	240	0	 
+LNP	Lunping, Taiwan	TW	25.000	121.167	100	0	0	closed
+LON	Lonjsko Polje, Croatia	HR	45.408	16.659	95	0	0	 
+LOV	Lovo, Sweden	SE	59.340	17.820	30	0	0	closed
+LRM	Learmonth, Australia	AS	-22.220	114.100	4	0	0	 
+LVV	Lviv, Ukraine	UP	49.900	23.750	326	0	0	 
+LYC	Lycksele, Sweden	SW	64.612	18.748	270	0	0	 
+LZH	Lanzhou, China	CN	36.087	103.845	1560	0	0	closed
+MAB	Manhay, Belgium	BE	50.298	5.682	440	0	0	 
+MAW	Mawson, Antarctica	AS	-67.600	62.880	12	0	0	 
+MBC	Mould Bay, Canada	CA	76.315	240.638	40	0	0	closed
+MBO	Mbour, Senegal	SN	14.390	343.040	7	0	0	closed
+MCQ	Macquarie Island, Australia	AS	-54.500	158.950	4	0	0	 
+MEA	Meanook, Canada	CA	54.616	246.653	700	24	24	 
+MGD	Magadan, Russia	RS	60.051	150.728	226	0	0	 
+MID	Midway Island, USA	US	28.210	182.620	3	0	0	closed
+MLT	Misallat, Egypt	EG	29.515	30.892	120	0	0	closed
+MMB	Memambetsu, Japan	JP	43.910	144.190	42	0	0	 
+MZL	Manzhouli, China	CH	49.600	117.400	682	0	0	 
+NAQ	Narsarsuaq, Greenland	GL	61.167	314.567	4	0	0	 
+NCK	Nagycenk, Hungary	HU	47.630	16.720	153	0	0	 
+NEW	Newport, USA	US	48.270	242.880	770	0	0	 
+NGK	Niemegk, Germany	GE	52.070	12.680	78	0	0	 
+NUR	Nurmijarvi, Finland	FI	60.510	24.660	105	0	0	 
+NVS	Novosibirsk, Russia	RS	54.850	83.230	130	0	0	 
+ORC	Base Orcadas, Laurie Island	AR	-60.737	315.263	3	0	0	 
+OTT	Ottawa, Canada	CA	45.403	284.448	75	24	24	 
+PAF	Port-aux-Francais, Kerguelen Island	AQ	-49.350	70.260	35	0	0	 
+PAG	Panagjurishte, Bulgaria	BU	42.515	24.177	556	0	0	 
+PBQ	Poste-de-la-Baleine, Canada	CA	55.277	282.255	40	0	0	closed
+PEG	Pedeli, Greece	GR	38.100	23.900	380	0	0	 
+PET	Paratunka, Russia	RS	52.971	158.248	50	0	0	 
+PHU	Phuthuy, Vietnam	VN	21.030	105.960	5	0	0	 
+PIL	Pilar, Argentina	AR	-31.667	296.119	336	0	0	 
+PPT	Pamatai, Tahiti, France	PF	-17.567	210.426	357	0	0	 
+PST	Port Stanley, Falklands Islands	UK	-51.700	302.110	135	24	0	 
+QSB	Qsaybeh, Lebanon	LB	33.871	35.644	525	0	0	no longer IMO
+RES	Resolute Bay, Canada	CA	74.690	265.105	30	24	24	 
+SBA	Scott Base, Antarctica	NZ	-77.829	166.671	130	0	0	 
+SBL	Sable Island, Canada	CA	43.932	299.990	5	24	0	 
+SFS	San Fernando, Spain	ES	36.667	354.055	111	0	0	 
+SHE	Saint Helena, Saint Helena	SH	-15.961	354.253	586	0	0	 
+SHU	Shumagin, USA	US	55.350	199.540	80	0	0	 
+SIT	Sitka, USA	US	57.060	224.670	24	0	0	 
+SJG	San Juan, USA	US	18.110	293.850	424	0	0	 
+SOD	Sodankyla, Finland	FI	67.370	26.630	178	0	0	 
+SPG	Saint Petersburg, Russia	RU	60.542	29.716	46	0	0	 
+SPT	San Pablo-Toledo, Spain	ES	39.550	355.650	922	0	0	 
+STJ	St John's, Canada	CA	47.595	307.323	100	24	24	 
+STT	Sao Teotonio, Portugal	PO	37.547	351.272	115	0	0	 
+SUA	Surlari, Romania	RO	44.680	26.250	84	0	0	 
+TAM	Tamanrasset, Algeria	DZ	22.790	5.530	1373	0	0	 
+TAN	Antananarivo, Madagascar	MG	-18.917	47.552	1375	0	0	closed
+TDC	Tristan da Cunha, Tristan da Cunha	SH	-37.067	347.684	41	0	0	 
+THL	Qaanaaq (Thule), Greenland	GL	77.470	290.773	57	0	0	 
+THY	Tihany, Hungary	HU	46.900	17.890	187	0	0	 
+TIK	Tiksi, Russia	RU	71.580	129.000	40	0	0	closed
+TSU	Tsumeb, South Africa	SF	-19.202	17.584	1273	0	0	 
+TTB	Tatuoca, Brazil	BR	-1.205	311.487	10	0	0	 
+TUC	Tucson, USA	US	32.170	249.270	946	0	0	 
+UPS	Uppsala, Sweden	SE	59.903	17.353	50	0	0	 
+VAL	Valentia, Eire	EI	51.933	349.750	14	24	24	 
+VIC	Victoria, Canada	CA	48.520	236.580	197	24	24	 
+VNA	Neumayer Station, Antarctica	AQ	-70.683	351.717	40	0	0	 
+VOS	Vostok, Antarctica	AQ	-78.464	106.835	3488	0	0	 
+VSS	Vassouras, Brazil	BR	-22.400	316.350	457	0	0	 
+WIC	Conrad, Austria	AU	47.931	15.866	1088	0	0	 
+WMQ	Urumqi, China	CH	43.810	87.710	908	0	0	 
+WNG	Wingst, Germany	GE	53.725	9.053	66	0	0	 
+YAK	Yakutsk, Russia	RS	61.960	129.660	100	0	0	 
+YKC	Yellowknife, Canada	CA	62.480	245.518	198	24	24	 

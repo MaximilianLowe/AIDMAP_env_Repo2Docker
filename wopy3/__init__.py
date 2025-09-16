@@ -1,0 +1,1 @@
+import wopy3.func_dump
